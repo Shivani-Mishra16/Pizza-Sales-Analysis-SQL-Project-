@@ -1,7 +1,7 @@
 # Pizza-Sales-Analysis-SQL-Project-
 **PROJECT OVERVIEW**
 
-This project focuses on analyzing pizza sales data using SQL to uncover meaningful business insights. By working with structured datasets, the project demonstrateshow SQL queries can be used to explore customer behavior, sales trends, and revenue genration.
+This project focuses on analyzing pizza sales data using SQL to uncover meaningful business insights. By working with structured datasets, the project demonstrates how SQL queries can be used to explore customer behavior, sales trends, and revenue generation.
 
 The goal is to understand how a pizza business operates by analyzing orders, pizza types, sizes, quantities, and pricing data.
 
@@ -49,4 +49,4 @@ The dataset consists of the following tables:
 
 **CONCLUSION**
 
-This project highlights how SQL can be effectively used to analyze sales data and extract actionable insights. It provides a strong foundation for data analytics, business intelligence, and decision-making iin real-world scenarios.
+This project highlights how SQL can be effectively used to analyze sales data and extract actionable insights. It provides a strong foundation for data analytics, business intelligence, and decision-making in real-world scenarios.
